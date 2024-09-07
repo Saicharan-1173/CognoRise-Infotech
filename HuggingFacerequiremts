@@ -1,0 +1,11 @@
+title: Iris Flower Prediction
+emoji: 📹
+colorFrom: blue
+colorTo: yellow
+sdk: streamlit
+app_file: IRIS_Flower_Classification.ipynb
+pinned: false
+---
+
+# Irisflowerprediction
+demo of 🤗 spaces deployment of a streamlit python app
